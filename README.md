@@ -22,11 +22,11 @@
 ---
 
 ### :woman_technologist: About Me : I am a Blockchain Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Blockchain Security Researcher, I mostly do freelancing work for www.code4arena.com
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to replay exploits that happened and try to learn from them.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-kulman-6013a9168/)
 

@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me : I am a Blockchain Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
-- :telescope: I’m working as a Blockchain Security Researcher, I mostly do freelancing work for www.code4arena.com
+- :telescope: Aspiring to get a job as a Smart Contract auditor.
 
 - :seedling: Exploring Technical Content Writing.
 

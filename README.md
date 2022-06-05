@@ -20,8 +20,8 @@
 
 ---
 
-### :woman_technologist: About Me : I am a Blockchain Security Researcher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
-- :telescope: Aspiring to get a job as a Smart Contract auditor.
+### :woman_technologist: About Me : I am a Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
+- :telescope: Aspiring to get a job as a Smart Contract Developer.
 
 - :seedling: Exploring Technical Content Writing.
 

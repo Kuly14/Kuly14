@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me : I am a Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
-- :telescope: Aspiring to get a job as a Smart Contract Developer / Auditor.
+- :telescope: Working at @NethermindEth
 
 - :seedling: Exploring Technical Content Writing.
 

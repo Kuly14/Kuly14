@@ -21,11 +21,9 @@
 ---
 
 ### :man_technologist: About Me : I am a Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Slovakia.
-- :telescope: Working at @NethermindEth
+- :telescope: Over year and a half experience within the blockchain industry.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I like to replay exploits that happened and try to learn from them.
+- :zap: In my free time, I like to contribute to open source projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-kulman-6013a9168/)
 
